@@ -141,5 +141,8 @@
     
 3.  Why is 'Mean Time to Repair' (MTTR) more important than 'Mean Time Between Failures' (MTBF) in DevOps?"
 
+---
+**_Write a LinkedIn post and publish. Do not forget to tag #bongoDev (I'll watch)_**
 
+---
 Cheers! 🚀 🚀🚀
