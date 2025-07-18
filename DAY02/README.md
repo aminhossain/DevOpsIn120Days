@@ -118,3 +118,4 @@ Imagine building a pizza restaurant  **the DevOps way**:
 **DevOps isn’t a lifecycle - it’s a FAST lifecycle!"**
 
 Cheers! 🚀 🚀🚀
+
