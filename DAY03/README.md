@@ -1,4 +1,4 @@
-### **#120DaysOfDevOps | Day 3: Agile, Scrum & Kanban in DevOps**
+### **#DevOpsIn120Days | Day 3: Agile, Scrum & Kanban in DevOps**
 
 ### **🚀 Today’s Mission:**
 
